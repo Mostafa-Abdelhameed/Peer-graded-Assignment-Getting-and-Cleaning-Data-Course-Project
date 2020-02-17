@@ -1,5 +1,5 @@
 
-# title: "Code Book for Peer-graded Assignment: Getting and Cleaning Data Course Project"
+"Code Book for Peer-graded Assignment: Getting and Cleaning Data Course Project"
 
 # wearable computing Example
 
