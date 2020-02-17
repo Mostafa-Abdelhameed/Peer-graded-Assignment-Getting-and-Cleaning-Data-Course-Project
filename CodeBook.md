@@ -1,13 +1,7 @@
 ---
 title: "Code Book for Peer-graded Assignment: Getting and Cleaning Data Course Project"
-author: "Mostafa Abdelhameed"
-output: html_document
+
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 #wearable computing Example
 
 ## Identifiers
