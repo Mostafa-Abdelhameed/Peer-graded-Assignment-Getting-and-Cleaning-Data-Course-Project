@@ -1,8 +1,7 @@
----
-title: "Code Book for Peer-graded Assignment: Getting and Cleaning Data Course Project"
 
----
-#wearable computing Example
+# title: "Code Book for Peer-graded Assignment: Getting and Cleaning Data Course Project"
+
+# wearable computing Example
 
 ## Identifiers
 
